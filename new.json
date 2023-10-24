@@ -1,0 +1,570 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.germany",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "worldcup2023f1",
+      "name": "FIBA Champions",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2023sf1",
+      "name": "Deutschland vs USA",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "worldcup2023cf3",
+      "name": "Deutschland vs Latvia",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "17marcha1",
+      "name": "Saint Patricks (1)",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "17marcha2",
+      "name": "Saint Patricks (2)",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "8marcha1",
+      "name": "Happy Womens Day",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "ukrainea1",
+      "name": "Peace Ukraine",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "ukraine1",
+      "name": "Peace Ukraine 2",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "happyvalentine1",
+      "name": "Happy Valentine (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "happyvalentine2",
+      "name": "Happy Valentine (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "worldcup2022GEcostaricavsgermany",
+      "name": "Deutschland vs Costa Rica",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GEspainvsgermany",
+      "name": "Deutschland vs Spain",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GEgermanyvsjapan",
+      "name": "Deutschland vs Japan",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022germany2",
+      "name": "World Cup Deutschland 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022germany3",
+      "name": "World Cup Deutschland 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022leongoretzka",
+      "name": "Leon Goretzka",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "worldcup2022leroysane",
+      "name": "Leroy Sane",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup2022lukasklostermann",
+      "name": "Lukas Klostermann",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "worldcup2022manuelneuer",
+      "name": "Manuel Neuer",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "worldcup2022nicoschlotterbeck",
+      "name": "Nico Schlotterbeck",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "worldcup2022niklassule",
+      "name": "Niklas Sule",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "worldcup2022sergegnabry",
+      "name": "Serge Gnabry",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup2022davidraum",
+      "name": "David Raum",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "worldcup2022jamalmusiala",
+      "name": "Jamal Musiala",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup2022joshuakimmich",
+      "name": "Joshua Kimmich",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022karimadeyemi",
+      "name": "Karim Adeyemi",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup2022thomasmuller2",
+      "name": "Thomas Muller 2",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "worldcup2022thomasmuller",
+      "name": "Thomas Muller",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022gundogan",
+      "name": "Ilkay Gundogan",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "dortmundvsbayern2022",
+      "name": "Dortmund vs Bayern Munich 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "dortmundvsbayern2022a1",
+      "name": "Dortmund vs Bayern Munich 2022 (2)",
+      "animated_sticker_pack": true,
+      "stickers": "6"
+    },
+    {
+      "identifier": "worldcup2022germany",
+      "name": "Germany 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022leyends",
+      "name": "Leyends 2022",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "rogerfederer",
+      "name": "Thanks Roger",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "bundesliga2122w1",
+      "name": "Bayern Champion 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "bundesliga2122w2",
+      "name": "Bayern Champion 2",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "happyeaster1",
+      "name": "Happy Easter 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "happyeaster2",
+      "name": "Happy Easter 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "happyeaster3",
+      "name": "Happy Easter 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "kissday1",
+      "name": "Kiss Day 1",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "kissday2",
+      "name": "Kiss Day 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "oscars2022a1",
+      "name": "Oscars 2022",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "qatar2022a",
+      "name": "Qatar 2022",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "ddr",
+      "name": "DDR",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "newyear2022a",
+      "name": "New Year 2022 (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "newyear2022b",
+      "name": "New Year 2022 (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "merrychristmas5",
+      "name": "Merry Christmas (5)",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "christmas1",
+      "name": "Frohe Weihnachten",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
+      "identifier": "merrychristmas1",
+      "name": "Merry Christmas (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "merrychristmas2",
+      "name": "Merry Christmas (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "merrychristmas3",
+      "name": "Merry Christmas (3)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "merrychristmas4",
+      "name": "Merry Christmas (4)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "christmastree",
+      "name": "Christmas Tree",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "germany2021",
+      "name": "Germany 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "animatedbayern1",
+      "name": "Bayern Munich",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "clubbayern1",
+      "name": "Bayern Munich Club",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "oktoberfest3",
+      "name": "Oktoberfest (3)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "wahlen2021",
+      "name": "Wahlen 2021",
+      "animated_sticker_pack": true,
+      "stickers": "7"
+    },
+    {
+      "identifier": "vaccinated1",
+      "name": "Vaccinated 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "vaccinated2",
+      "name": "Vaccinated 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "vaccinated3",
+      "name": "Vaccinated 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "vaccinated4",
+      "name": "Vaccinated 4",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "vaccinated5",
+      "name": "Vaccinated 5",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "vaccinated6",
+      "name": "Vaccinated 6",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "beerday",
+      "name": "Beer Day",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "emojiscovid",
+      "name": "Emojis Covid",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "positivemessages1",
+      "name": "Positive Messages",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "pride",
+      "name": "Pride",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "bundesliga2122",
+      "name": "Bundesliga 21/22",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "diemaus1",
+      "name": "Die Maus (1)",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "diemaus2",
+      "name": "Die Maus (2)",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "oktoberfest2",
+      "name": "Oktoberfest (2)",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
+      "identifier": "stromberg1",
+      "name": "Stromberg",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "text1",
+      "name": "Text",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "emojisgerman1",
+      "name": "Emojis",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "merkel1",
+      "name": "Angela Merkel 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "merkel2",
+      "name": "Angela Merkel 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "merkel3",
+      "name": "Angela Merkel 3",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "oktoberfest1",
+      "name": "Oktoberfest (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "paulaner",
+      "name": "Paulaner",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "berlin",
+      "name": "Berlin",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "greetings1",
+      "name": "Greetings",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "flags",
+      "name": "Flags",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "bayerna2021",
+      "name": "Bayern Munich",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "borussiaa2021",
+      "name": "Borussia Dortmund",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "pack9",
+      "name": "Pack 9",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "pack8",
+      "name": "Pack 8",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "pack7",
+      "name": "Pack 7",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pack6",
+      "name": "Pack 6",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "pack5",
+      "name": "Pack 5",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "pack4",
+      "name": "Pack 4",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "pack3",
+      "name": "Pack 3",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "pack2",
+      "name": "Pack 2",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "pack1",
+      "name": "Pack 1",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    }
+  ]
+}

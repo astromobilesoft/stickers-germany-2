@@ -3,24 +3,6 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "worldcup2023f1",
-      "name": "FIBA Champions",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2023sf1",
-      "name": "Deutschland vs USA",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "worldcup2023cf3",
-      "name": "Deutschland vs Latvia",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
       "identifier": "ukraine1",
       "name": "Peace Ukraine 2",
       "animated_sticker_pack": false,

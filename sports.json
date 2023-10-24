@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "germany2023",
+      "name": "Germany 2023",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
       "identifier": "worldcup2023f1",
       "name": "FIBA Champions",
       "animated_sticker_pack": false,

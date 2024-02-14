@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "happyvalentine1",
+      "name": "Happy Valentine (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "happyvalentine2",
+      "name": "Happy Valentine (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
       "identifier": "17marcha1",
       "name": "Saint Patricks (1)",
       "animated_sticker_pack": true,
@@ -23,18 +35,6 @@
     {
       "identifier": "ukrainea1",
       "name": "Peace Ukraine",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "happyvalentine1",
-      "name": "Happy Valentine (1)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "happyvalentine2",
-      "name": "Happy Valentine (2)",
       "animated_sticker_pack": true,
       "stickers": "12"
     },

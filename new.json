@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"happyvalentine1",
+         "name":"Happy Valentine (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"happyvalentine2",
+         "name":"Happy Valentine (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
          "identifier":"2023dortmundvsbayern1",
          "name":"Dortmund vs Bayern Munich",
          "animated_sticker_pack":false,
@@ -61,18 +73,6 @@
          "name":"Peace Ukraine 2",
          "animated_sticker_pack":false,
          "stickers":"18"
-      },
-      {
-         "identifier":"happyvalentine1",
-         "name":"Happy Valentine (1)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"happyvalentine2",
-         "name":"Happy Valentine (2)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
       },
       {
          "identifier":"worldcup2022GEcostaricavsgermany",

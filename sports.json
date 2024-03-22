@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kitdfb1",
+         "name":"Kit DFB (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"kitdfb2",
+         "name":"Kit DFB (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"2023dortmundvsbayern1",
          "name":"Dortmund vs Bayern Munich",
          "animated_sticker_pack":false,

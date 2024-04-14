@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"2024bundesligaw1",
+         "name":"Leverkusen Champion 23-24 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"2024bundesligaw2",
+         "name":"Leverkusen Champion 23-24 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
          "identifier":"kitdfb1",
          "name":"Kit DFB (1)",
          "animated_sticker_pack":false,

@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"euro2024germany2",
+         "name":"Euro Goal",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
          "identifier":"uefa2024d1",
          "name":"vs Scotland",
          "animated_sticker_pack":false,

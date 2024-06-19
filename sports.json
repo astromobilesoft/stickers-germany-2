@@ -3,10 +3,10 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"uefa2024fg2",
+         "identifier":"euro2024fg2",
          "name":"vs Hungary",
          "animated_sticker_pack":false,
-         "stickers":"20"
+         "stickers":"30"
       },
       {
          "identifier":"euro2024germany2",
@@ -15,7 +15,7 @@
          "stickers":"20"
       },
       {
-         "identifier":"uefa2024fg1",
+         "identifier":"euro2024fg1",
          "name":"vs Scotland",
          "animated_sticker_pack":false,
          "stickers":"30"

@@ -3,6 +3,42 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"merrychristmas1",
+         "name":"Merry Christmas (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"merrychristmas2",
+         "name":"Merry Christmas (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"merrychristmas3",
+         "name":"Merry Christmas (3)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"merrychristmas4",
+         "name":"Merry Christmas (4)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"merrychristmas5",
+         "name":"Merry Christmas (5)",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
+         "identifier":"merrychristmas6",
+         "name":"Merry Christmas (6)",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
          "identifier":"euro2024o2",
          "name":"vs Denmark",
          "animated_sticker_pack":false,
@@ -359,42 +395,6 @@
       {
          "identifier":"newyear2022b",
          "name":"New Year 2022 (2)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"merrychristmas5",
-         "name":"Merry Christmas (5)",
-         "animated_sticker_pack":true,
-         "stickers":"8"
-      },
-      {
-         "identifier":"christmas1",
-         "name":"Frohe Weihnachten",
-         "animated_sticker_pack":false,
-         "stickers":"9"
-      },
-      {
-         "identifier":"merrychristmas1",
-         "name":"Merry Christmas (1)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"merrychristmas2",
-         "name":"Merry Christmas (2)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"merrychristmas3",
-         "name":"Merry Christmas (3)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"merrychristmas4",
-         "name":"Merry Christmas (4)",
          "animated_sticker_pack":true,
          "stickers":"12"
       },

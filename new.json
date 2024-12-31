@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"happynewyear25a",
+         "name":"Happy New Year 2025",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
          "identifier":"merrychristmas1",
          "name":"Merry Christmas (1)",
          "animated_sticker_pack":true,

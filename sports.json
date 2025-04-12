@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"2025bayernmunichvsdortmund1",
+         "name":"Bayern Munich vs Dortmund",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"euro2024o2",
          "name":"vs Denmark",
          "animated_sticker_pack":false,

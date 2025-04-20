@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"happyeaster1",
+         "name":"Happy Easter 1",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"happyeaster2",
+         "name":"Happy Easter 2",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"happyeaster3",
+         "name":"Happy Easter 3",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
          "identifier":"2025bayernmunichvsdortmund1",
          "name":"Bayern Munich vs Dortmund",
          "animated_sticker_pack":false,
@@ -349,24 +367,6 @@
          "name":"Bayern Champion 2",
          "animated_sticker_pack":true,
          "stickers":"9"
-      },
-      {
-         "identifier":"happyeaster1",
-         "name":"Happy Easter 1",
-         "animated_sticker_pack":true,
-         "stickers":"15"
-      },
-      {
-         "identifier":"happyeaster2",
-         "name":"Happy Easter 2",
-         "animated_sticker_pack":true,
-         "stickers":"15"
-      },
-      {
-         "identifier":"happyeaster3",
-         "name":"Happy Easter 3",
-         "animated_sticker_pack":true,
-         "stickers":"12"
       },
       {
          "identifier":"kissday1",

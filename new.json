@@ -3,7 +3,13 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"worldcup2026germany4",
+         "identifier":"worldcup2026germanyf2",
+         "name":"Germany vs Ivory Coast",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"worldcup2026germanyf1",
          "name":"Germany vs Curacao",
          "animated_sticker_pack":false,
          "stickers":"20"

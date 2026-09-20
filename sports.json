@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2627bayernmunichportraits1",
+         "name":"Bayern Portraits (1)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"ucl2627bayernmunichportraits2",
+         "name":"Bayern Portraits (2)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"ucl2627bayernmunichportraits3",
+         "name":"Bayern Portraits (3)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
          "identifier":"kitbayern2627a",
          "name":"Bayern Munich Kit Home 26-27",
          "animated_sticker_pack":false,

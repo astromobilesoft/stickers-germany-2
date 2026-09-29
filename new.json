@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kitbundesliga2627a",
+         "name":"Kits Bundesliga 2026-27 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"kitbundesliga2627b",
+         "name":"Kits Bundesliga 2026-27 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },           
+      {
          "identifier":"ucl2627bayernmunichportraits1",
          "name":"Bayern Portraits (1)",
          "animated_sticker_pack":false,

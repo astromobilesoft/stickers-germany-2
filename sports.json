@@ -3,6 +3,96 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"augsburg2627",
+         "name":"Augsburg 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"bayerleverkusen2627",
+         "name":"Bayer Leverkusen 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"bayernmunich2627",
+         "name":"Bayern Munich 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"borussiamoenchengladbach2627",
+         "name":"B. Moenchengladbach 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"dortmund2627",
+         "name":"Borussia Dortmund 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"eintrachtfrankfurt2627",
+         "name":"Eintracht Frankfurt 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"elversberg2627",
+         "name":"Elversberg 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },                                    
+      {
+         "identifier":"freiburg2627",
+         "name":"Freiburg 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"hamburger2627",
+         "name":"Hamburger 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"hoffenheim2627",
+         "name":"Hoffenheim 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"koln2627",
+         "name":"Koln 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"leipzig2627",
+         "name":"Leipzig 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"paderborn2627",
+         "name":"Paderborn 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"unionberlin2627",
+         "name":"Union Berlin 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"werderbremen2627",
+         "name":"Werder Bremen 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },          
+      {
          "identifier":"kitbundesliga2627a",
          "name":"Kits Bundesliga 2026-27 (1)",
          "animated_sticker_pack":false,
